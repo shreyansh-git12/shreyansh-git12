@@ -9,7 +9,7 @@
   <a href="https://ghibli-new.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x.com/ShreyanshC17989" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
